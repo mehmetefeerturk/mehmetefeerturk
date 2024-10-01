@@ -2,9 +2,9 @@
 - 👀 I’m interested in software
 - 🌱 I’m currently learning C# language
 - 💞️ I’m looking to collaborate on with good company
-- 📫 How to reach me -> Discord: ttommys. (This point is not the end point of the sentence :D)
-- 😄 Pronouns: Tommy :)
-- ⚡ Fun fact: I have a cousin who is a software engineer, I've wanted to be like him since I was a child
+- 📫 How to reach me -> Discord: ttommys. / e-mail address: efex707@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love technology :)
 
 <!---
 mehmetefeerturk/mehmetefeerturk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
