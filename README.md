@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mehmetefeerturk
 - 👀 I’m interested in software
-- 🌱 I’m currently learning C# language
+- 🌱 I’m currently learning [I will start]
 - 💞️ I’m looking to collaborate on with good company
 - 📫 How to reach me -> Discord: ttommys. / e-mail address: efex707@gmail.com
 - 😄 Pronouns: he/him
